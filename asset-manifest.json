@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokemon_catch/static/css/main.02b4250e.chunk.css",
+    "main.js": "/pokemon_catch/static/js/main.550b4584.chunk.js",
+    "main.js.map": "/pokemon_catch/static/js/main.550b4584.chunk.js.map",
+    "runtime-main.js": "/pokemon_catch/static/js/runtime-main.2eda4c03.js",
+    "runtime-main.js.map": "/pokemon_catch/static/js/runtime-main.2eda4c03.js.map",
+    "static/css/2.2295ac45.chunk.css": "/pokemon_catch/static/css/2.2295ac45.chunk.css",
+    "static/js/2.4fffc8da.chunk.js": "/pokemon_catch/static/js/2.4fffc8da.chunk.js",
+    "static/js/2.4fffc8da.chunk.js.map": "/pokemon_catch/static/js/2.4fffc8da.chunk.js.map",
+    "index.html": "/pokemon_catch/index.html",
+    "static/css/2.2295ac45.chunk.css.map": "/pokemon_catch/static/css/2.2295ac45.chunk.css.map",
+    "static/css/main.02b4250e.chunk.css.map": "/pokemon_catch/static/css/main.02b4250e.chunk.css.map",
+    "static/js/2.4fffc8da.chunk.js.LICENSE.txt": "/pokemon_catch/static/js/2.4fffc8da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2eda4c03.js",
+    "static/css/2.2295ac45.chunk.css",
+    "static/js/2.4fffc8da.chunk.js",
+    "static/css/main.02b4250e.chunk.css",
+    "static/js/main.550b4584.chunk.js"
+  ]
+}
